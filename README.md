@@ -55,16 +55,16 @@ deploymentid = = "<insert copied deployment ID here>"
 ```
 Example: 
 ```
-projectid = “64496945bb321d719cac6451”
-deploymentid = “64496952bb321d719cac6452”
+projectid = "64496945bb321d719cac6451"
+deploymentid = "64496952bb321d719cac6452"
 ```
 
 5. In DataRobot, click your **User icon** in the top right corner and select **Developer tools**. Then, select any of the API keys shown.
 6. In Streamlit, return to the **Secrets** page and enter the token:
 Example:
 ```
-projectid = “64496945bb321d719cac6451”
-deploymentid = “64496952bb321d719cac6452”
+projectid = "64496945bb321d719cac6451"
+deploymentid = "64496952bb321d719cac6452"
 
 token = "644969e2bb321d719cac6455644969e2bb321d719cac6456644969e2bb321"
 ```
